@@ -1,6 +1,4 @@
-<div style="text-align:center;">
-    <img src="CIIMAR_logo.png" alt="Imagem 2" width="200">
-</div>
+<img src="CIIMAR_logo.png" alt="Imagem 2" width="200" style="display: block; margin: 0 auto;">
 
 This repository addresses code for Differential Gene Expression (DGE) analysis using three methods, EdgeR, limma and DESeq2. This work is incorporated into to a project: EdgeOmics - Freshwater Bivalves at the edge: Adaptation genomics under climate-change scenarios (http://doi.org/10.54499/PTDC/CTA-AMB/3065/2020).
 
