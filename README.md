@@ -1,1 +1,1 @@
- <img src="CIIMAR_logo.png" alt="Imagem 2" width="150">
+ <img src="CIIMAR_logo.png" alt="Imagem 2" width="100">
